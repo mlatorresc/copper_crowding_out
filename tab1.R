@@ -48,7 +48,7 @@ library(lmtest)    # coeftest()
 archivo_datos <- "correlation data/correlation.xlsx"
 hoja_datos    <- "Correlations log_difs"
 dir_tab       <- "tables"
-archivo_tex   <- "correlations.tex"
+archivo_tex   <- "tab1.tex"
 
 # Filas (factores globales) y columnas (precio del cobre y variables
 # domésticas) de la tabla, con el nombre de la columna en el Excel
